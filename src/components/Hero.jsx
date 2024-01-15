@@ -31,11 +31,11 @@ const Hero = () => {
               Welcome to <br /> <span className="text-[#fff]">{Bio.title}</span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 mb-4 text-white-100`}>
-              We Provide{" "}
-              <span className="text-[#fff600]" id="typewriter"></span>
+              We Provide <span className="text-[#b4abae]" id="typewriter"></span>
             </p>
-            <p className="text-secondary lg:w-[700px]">{Bio.description}</p>
+            <p className="text-[#ebe6e6] lg:w-[700px]">{Bio.description}</p>
             <button
+              className="bg-gradient-to-r from-[#820b38] to-[#000] ... cursor-pointer "
               style={{
                 WebkitAppearance: "button",
                 MozAppearance: "button",
@@ -48,11 +48,9 @@ const Hero = () => {
                 marginTop: "30px",
                 color: "white",
                 borderRadius: "50px",
-                cursor: "pointer",
                 fontSize: "16px",
                 fontWeight: "600",
                 transition: "all 0.2s ease-in-out",
-                background: "#7848df",
               }}
             >
               <a
@@ -61,7 +59,7 @@ const Hero = () => {
                 rel="noreferrer"
                 style={{ textDecoration: "none", color: "inherit" }}
               >
-                Check Resume
+                Contact Us
               </a>
             </button>
           </div>

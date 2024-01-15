@@ -49,13 +49,14 @@ const navLinks = [
 export const Bio = {
   title: "Digital IT Service Agency",
   roles: [
-    "Full Stack Developer",
-    "MERN Stack Web Developer",
-    "Frontend Developer",
-    "Programmer",
+    "Graphic Design Service",
+    "Web Development Service",
+    "UI/UX Design Service",
+    "Video Editing Service",
+    "Digital Marketing Service",
   ],
   description:
-    "As a MERN Stack Web Developer, I am enthusiastic about contributing my skills to a dynamic team in a challenging and innovative environment. With proficiency in MongoDB, Express.js, React.js, and Node.js, I specialize in creating scalable and responsive web applications.",
+    "We specialize in delivering top-notch graphic design, web development, digital marketing, ui/ux design, video editing and more services. Our talented team of creative professionals is dedicated to transforming your ideas into visually stunning online experiences. Elevate your digital presence with Team Sonic Innovate where innovation meets excellence.",
   github: "https://github.com/ifteharr001",
   resume: "https://iftekharrahat-resume.tiiny.site/",
 };
