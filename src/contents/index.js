@@ -47,7 +47,7 @@ const navLinks = [
 ];
 
 export const Bio = {
-  name: "Iftekhar Rahat",
+  title: "Digital IT Service Agency",
   roles: [
     "Full Stack Developer",
     "MERN Stack Web Developer",

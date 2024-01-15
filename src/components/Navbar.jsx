@@ -22,7 +22,7 @@ const Navbar = () => {
               window.scrollTo(0, 0);
             }}
           >
-            <img src={logo} alt="logo" className="w-[300px] object-contain" />
+            <img src={logo} alt="logo" className="w-[300px] h-[60px] object-contain" />
           </Link>
         </div>
         <div className=" justify-center items-center flex">
