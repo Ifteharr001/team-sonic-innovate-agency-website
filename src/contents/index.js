@@ -33,8 +33,8 @@ const navLinks = [
     title: "Team Member",
   },
   {
-    id: "project",
-    title: "Project",
+    id: "service",
+    title: "Services",
   },
   {
     id: "feedback",

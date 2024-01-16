@@ -15,7 +15,9 @@ const App = () => {
         <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
           <Navbar />
           <Hero />
-          <Counter />
+          <div className="w-[1140px] mx-auto">
+            <Counter />
+          </div>
         </div>
         
         <Feedbacks />
